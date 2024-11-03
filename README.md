@@ -1,9 +1,9 @@
 # aroxu-plugin-template
-- This is a template of minecraft plugin, based on [PaperMC](https://papermc.io)
+- This is a template of minecraft plugin, based on [Bukkit](https://getbukkit.org)
 ---
 ## Build
 ```gradle
-./gradlew clean runServer
+./gradlew clean jar
 ```
 ---
 ## Author
